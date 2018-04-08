@@ -10,6 +10,9 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="4.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{A7795A7C-E19C-4664-9533-051F5BB7C71B}</ProjectGuid>
     <RootNamespace>Project1</RootNamespace>
@@ -63,12 +66,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <None Include="ClassDiagram.cd" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="3.c" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

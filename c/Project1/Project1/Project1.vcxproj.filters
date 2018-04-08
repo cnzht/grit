@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ClassDiagram.cd" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="3.c">
+    <ClCompile Include="4.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
