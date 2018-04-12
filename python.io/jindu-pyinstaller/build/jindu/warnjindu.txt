@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named posix - imported by os, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named _posixsubprocess - imported by subprocess, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named org - imported by pickle, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named readline - imported by cmd, code, pdb, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named _winreg - imported by platform, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named 'java.lang' - imported by platform, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named termios - imported by tty, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py, getpass
+missing module named grp - imported by shutil, tarfile, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py
+missing module named 'org.python' - imported by copy, F:\Github\grit\python.io\jindu-pyinstaller\jindu.py, xml.sax
