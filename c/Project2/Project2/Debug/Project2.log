@@ -1,15 +1,12 @@
-﻿生成启动时间为 2018/4/23 星期一 下午 7:15:09。
+﻿生成启动时间为 2018/5/4 星期五 下午 3:30:42。
      1>项目“F:\Github\grit\c\Project2\Project2\Project2.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 0423.c
-         0423.c
-     1>f:\github\grit\c\project2\project2\0423.c(181): warning C4013: “malloc”未定义；假设外部返回 int
-     1>f:\github\grit\c\project2\project2\0423.c(190): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>f:\github\grit\c\project2\project2\0423.c(199): warning C4013: “system”未定义；假设外部返回 int
-     1>f:\github\grit\c\project2\project2\0423.c(228): warning C4013: “free”未定义；假设外部返回 int
-     1>f:\github\grit\c\project2\project2\0423.c(277): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt bankServe.c
+         bankServe.c
        Link:
-         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Github\grit\c\Project2\Debug\Project2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Github\grit\c\Project2\Debug\Project2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Github\grit\c\Project2\Debug\Project2.lib" /MACHINE:X86 Debug\0423.obj
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Github\grit\c\Project2\Debug\Project2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Github\grit\c\Project2\Debug\Project2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Github\grit\c\Project2\Debug\Project2.lib" /MACHINE:X86 Debug\bank.obj
+         Debug\bankoperation.obj
+         Debug\bankServe.obj
          Project2.vcxproj -> F:\Github\grit\c\Project2\Debug\Project2.exe
      1>已完成生成项目“F:\Github\grit\c\Project2\Project2\Project2.vcxproj”(Build 个目标)的操作。
 

@@ -11,7 +11,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0423.c" />
+    <ClInclude Include="bankDataStruct.h" />
+    <ClInclude Include="bankoperation.h" />
+    <ClInclude Include="bankServe.h" />
+    <ClInclude Include="lead.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bank.c" />
+    <ClCompile Include="bankoperation.c" />
+    <ClCompile Include="bankServe.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{CA0E6A04-BCCC-42E5-9872-DD88EA7CF3E6}</ProjectGuid>

@@ -15,7 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0423.c">
+    <ClInclude Include="bankoperation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bankServe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bankDataStruct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lead.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bank.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bankoperation.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bankServe.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
