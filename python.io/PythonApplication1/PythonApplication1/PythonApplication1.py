@@ -1,0 +1,1 @@
+print("vs中的python环境搭建成功！")
