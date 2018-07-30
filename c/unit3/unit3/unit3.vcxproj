@@ -12,12 +12,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LinkQueue.h" />
-    <ClInclude Include="SLStack.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ApplictionMain.c" />
     <ClCompile Include="LinkQueue.c" />
-    <ClCompile Include="SLStack.c" />
+    <ClCompile Include="task.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{4ABB4BC6-4BE9-492E-8DBC-E308998737C3}</ProjectGuid>

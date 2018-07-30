@@ -18,18 +18,12 @@
     <ClInclude Include="LinkQueue.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="SLStack.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinkQueue.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="SLStack.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ApplictionMain.c">
+    <ClCompile Include="task.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
