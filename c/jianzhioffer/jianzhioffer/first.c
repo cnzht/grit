@@ -100,7 +100,7 @@ int paixu(int **sz) //¶ş·Ö·¨ÅÅĞò
 }
 */
 int findnumber(int **sz, int n)
-{5
+{
 	for (int i = 0; i < 9; i++)
 	{
 		if (*(sz + i) == n)
