@@ -10,9 +10,6 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="180730test.c" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C52C8D18-EADC-4881-9E2D-22ED9E91925E}</ProjectGuid>
     <RootNamespace>jianzhioffer</RootNamespace>

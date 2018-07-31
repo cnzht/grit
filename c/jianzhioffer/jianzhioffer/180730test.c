@@ -1,10 +1,15 @@
 #include <stdio.h>
 int main()
 {
-	for (int i = 0; i < 10; i++)
+	int n = 0,x=500;
+	char a = '\80';
+	while (x)
 	{
-		printf("https://github.com/cnzht/grit.git \n");
+		n++;
+		x = x&(x - 1);
+		printf("%d->%d\n",x, n);
 	}
+	printf("%d",n);
 	getchar();
 	return 0;
 }
