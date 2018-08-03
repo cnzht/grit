@@ -1,6 +1,6 @@
 #include "OftenInclude.h"
 int func(int );
-int main()
+int main() //Ö÷º¯Êý
 {
 	printf("%d", func(5));
 	getchar();
