@@ -4,6 +4,7 @@ int main()
 {
 	printf("%d", func(5));
 	getchar();
+	getchar();
 	return 0;
 }
 int func(int n)
