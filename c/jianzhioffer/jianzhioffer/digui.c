@@ -14,7 +14,7 @@ int func(int n)
 	{
 		m = 1;
 	}
-	else
+	else//
 	{
 		m = n*func(n - 1);
 	}
