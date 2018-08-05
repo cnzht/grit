@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="digui.c">
+    <ClCompile Include="feibonaqi.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
