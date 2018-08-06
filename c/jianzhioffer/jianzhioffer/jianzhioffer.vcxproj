@@ -14,7 +14,7 @@
     <ClInclude Include="OftenInclude.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ListNode.c" />
+    <ClCompile Include="TiHuan.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C52C8D18-EADC-4881-9E2D-22ED9E91925E}</ProjectGuid>
@@ -51,6 +51,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <BrowseInformation>true</BrowseInformation>
+      <PreprocessorDefinitions>_MBCS;%(PreprocessorDefinitions);_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
