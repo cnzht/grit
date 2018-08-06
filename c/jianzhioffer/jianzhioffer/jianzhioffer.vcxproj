@@ -11,7 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="d2.c" />
+    <ClInclude Include="OftenInclude.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="feibonaqi.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C52C8D18-EADC-4881-9E2D-22ED9E91925E}</ProjectGuid>
