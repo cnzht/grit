@@ -15,12 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="OftenInclude.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="SLNODE.c">
+    <ClCompile Include="Listlink.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
